@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<SongDef>
+			<clipPath>Bloody_Sunset</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>Blue_Limbo</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Coming_Home</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Heartbeat_From_The_Last_Century</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Heartglaze_Hope</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Im_Not_Gone</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Lonely_Mountain</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Lullaby_Of_The_Dead</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Mother</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>My_Destiny</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Overthinker</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Playing_In_The_Sun</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Recurring_Dream</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>The_End_Of_The_Road</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>The_Final_Hour</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>The_Hero</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>The_Last_Tear</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>The_Whisper</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Through_The_Wind</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Trust_Them</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+
+	<SongDef>
+			<clipPath>Visions_Of_Red</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+		
+	<SongDef>
+			<clipPath>A_Caterpillar_Made_Of_Sadness</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>A_Gargantuan_Swimcrab</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>A_Hundred_Hungry_Beaks</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>A_Long_Lost_Woodcrawler</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Aged_Through_Blood</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+
+	<SongDef>
+			<clipPath>Bishops</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Captain_And_Sea</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>City_Facilities</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>Control_Area</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Control_Tower</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+		
+	<SongDef>
+			<clipPath>Factory</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Fallen_Tree</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Freedoms_Anthem</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>Hangar</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Heaven</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+
+	<SongDef>
+			<clipPath>Herman</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Little_Bones</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Ludopathy</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>Memories</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>My_Name_Is_Laika</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+
+	<SongDef>
+			<clipPath>No_Return</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Old_Town</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Papal_Terrace</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>Puppy_Is_Gone</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>The_Antennas</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+
+	<SongDef>
+			<clipPath>The_Big_Tree</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>The_Miners</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>The_Wastelanders</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>When_I_Lost_A_Friend</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>When_It_Began</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+
+	<SongDef>
+			<clipPath>Where_Birds_Lurk</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Where_Rock_Bleeds</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+	<SongDef>
+			<clipPath>Where_Water_Glistened</clipPath>
+			<volume>0.7</volume>
+		</SongDef>	
+	<SongDef>
+			<clipPath>Where_We_Dream</clipPath>
+			<volume>0.7</volume>
+		</SongDef>
+</Defs>
